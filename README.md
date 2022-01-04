@@ -1,7 +1,7 @@
 # personal-site
 
-A personal site giving a brief description of myself.
-
+A personal site giving a brief description of myself and showing some of the things I've worked on. 
+https://kenny-la.netlify.app
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
