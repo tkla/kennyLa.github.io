@@ -29,6 +29,14 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+#proj-link {
+   border-bottom: none;
+}
+
+#proj-link:hover{
+   cursor: pointer;
+}
+
 body {
 	line-height: 1;
 }
